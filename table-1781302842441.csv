@@ -1,0 +1,7 @@
+﻿File,Size,What It Does
+[index.html](sandbox:///mnt/agents/output/yuvraj-3d-resume/index.html),46 KB,Main page structure
+[styles.css](sandbox:///mnt/agents/output/yuvraj-3d-resume/styles.css),5 KB,All styling & animations
+[three-scene.js](sandbox:///mnt/agents/output/yuvraj-3d-resume/three-scene.js),15 KB,3D WebGL effects
+[animations.js](sandbox:///mnt/agents/output/yuvraj-3d-resume/animations.js),16 KB,GSAP scroll animations
+[main.js](sandbox:///mnt/agents/output/yuvraj-3d-resume/main.js),19 KB,Interactions & utilities
+[README.md](sandbox:///mnt/agents/output/yuvraj-3d-resume/README.md),8 KB,Full deployment guide
